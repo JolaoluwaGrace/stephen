@@ -1,0 +1,3 @@
+git init
+git remote add -t main -m main -f origin https://github.com/JolaoluwaGrace/stephen.git
+git switch main
